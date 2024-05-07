@@ -1,0 +1,14 @@
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\PrimaryConstructor\obj\Debug\net8.0\PrimaryConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\PrimaryConstructor\obj\Debug\net8.0\PrimaryConstructor.AssemblyInfoInputs.cache
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\PrimaryConstructor\obj\Debug\net8.0\PrimaryConstructor.AssemblyInfo.cs
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\PrimaryConstructor\obj\Debug\net8.0\PrimaryConstructor.csproj.CoreCompileInputs.cache
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\PrimaryConstructor\bin\Debug\net8.0\PrimaryConstructor.exe
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\PrimaryConstructor\bin\Debug\net8.0\PrimaryConstructor.deps.json
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\PrimaryConstructor\bin\Debug\net8.0\PrimaryConstructor.runtimeconfig.json
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\PrimaryConstructor\bin\Debug\net8.0\PrimaryConstructor.dll
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\PrimaryConstructor\bin\Debug\net8.0\PrimaryConstructor.pdb
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\PrimaryConstructor\obj\Debug\net8.0\PrimaryConstructor.dll
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\PrimaryConstructor\obj\Debug\net8.0\refint\PrimaryConstructor.dll
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\PrimaryConstructor\obj\Debug\net8.0\PrimaryConstructor.pdb
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\PrimaryConstructor\obj\Debug\net8.0\PrimaryConstructor.genruntimeconfig.cache
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\PrimaryConstructor\obj\Debug\net8.0\ref\PrimaryConstructor.dll
