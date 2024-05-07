@@ -1,0 +1,15 @@
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\AliasAnyType\bin\Debug\net8.0\AliasAnyType.exe
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\AliasAnyType\bin\Debug\net8.0\AliasAnyType.deps.json
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\AliasAnyType\bin\Debug\net8.0\AliasAnyType.runtimeconfig.json
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\AliasAnyType\bin\Debug\net8.0\AliasAnyType.dll
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\AliasAnyType\bin\Debug\net8.0\AliasAnyType.pdb
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\AliasAnyType\obj\Debug\net8.0\AliasAnyType.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\AliasAnyType\obj\Debug\net8.0\AliasAnyType.AssemblyInfoInputs.cache
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\AliasAnyType\obj\Debug\net8.0\AliasAnyType.AssemblyInfo.cs
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\AliasAnyType\obj\Debug\net8.0\AliasAnyType.csproj.CoreCompileInputs.cache
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\AliasAnyType\obj\Debug\net8.0\AliasAnyType.sourcelink.json
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\AliasAnyType\obj\Debug\net8.0\AliasAnyType.dll
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\AliasAnyType\obj\Debug\net8.0\refint\AliasAnyType.dll
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\AliasAnyType\obj\Debug\net8.0\AliasAnyType.pdb
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\AliasAnyType\obj\Debug\net8.0\AliasAnyType.genruntimeconfig.cache
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\AliasAnyType\obj\Debug\net8.0\ref\AliasAnyType.dll
