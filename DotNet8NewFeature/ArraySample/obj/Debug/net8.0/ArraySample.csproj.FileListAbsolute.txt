@@ -1,0 +1,15 @@
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\ArraySample\bin\Debug\net8.0\ArraySample.exe
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\ArraySample\bin\Debug\net8.0\ArraySample.deps.json
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\ArraySample\bin\Debug\net8.0\ArraySample.runtimeconfig.json
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\ArraySample\bin\Debug\net8.0\ArraySample.dll
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\ArraySample\bin\Debug\net8.0\ArraySample.pdb
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\ArraySample\obj\Debug\net8.0\ArraySample.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\ArraySample\obj\Debug\net8.0\ArraySample.AssemblyInfoInputs.cache
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\ArraySample\obj\Debug\net8.0\ArraySample.AssemblyInfo.cs
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\ArraySample\obj\Debug\net8.0\ArraySample.csproj.CoreCompileInputs.cache
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\ArraySample\obj\Debug\net8.0\ArraySample.sourcelink.json
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\ArraySample\obj\Debug\net8.0\ArraySample.dll
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\ArraySample\obj\Debug\net8.0\refint\ArraySample.dll
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\ArraySample\obj\Debug\net8.0\ArraySample.pdb
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\ArraySample\obj\Debug\net8.0\ArraySample.genruntimeconfig.cache
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\ArraySample\obj\Debug\net8.0\ref\ArraySample.dll
