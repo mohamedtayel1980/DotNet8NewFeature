@@ -1,0 +1,162 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CodeMaz\\Dev.to\\DotNet8NewFeatures\\DotNet8NewFeature\\UsingTimeTest\\UsingTimeTest.csproj": {}
+  },
+  "projects": {
+    "D:\\CodeMaz\\Dev.to\\DotNet8NewFeatures\\DotNet8NewFeature\\NewTimeFeature\\NewTimeFeature.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CodeMaz\\Dev.to\\DotNet8NewFeatures\\DotNet8NewFeature\\NewTimeFeature\\NewTimeFeature.csproj",
+        "projectName": "NewTimeFeature",
+        "projectPath": "D:\\CodeMaz\\Dev.to\\DotNet8NewFeatures\\DotNet8NewFeature\\NewTimeFeature\\NewTimeFeature.csproj",
+        "packagesPath": "C:\\Users\\mtayel\\.nuget\\packages\\",
+        "outputPath": "D:\\CodeMaz\\Dev.to\\DotNet8NewFeatures\\DotNet8NewFeature\\NewTimeFeature\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mtayel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CodeMaz\\Dev.to\\DotNet8NewFeatures\\DotNet8NewFeature\\UsingTimeTest\\UsingTimeTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CodeMaz\\Dev.to\\DotNet8NewFeatures\\DotNet8NewFeature\\UsingTimeTest\\UsingTimeTest.csproj",
+        "projectName": "UsingTimeTest",
+        "projectPath": "D:\\CodeMaz\\Dev.to\\DotNet8NewFeatures\\DotNet8NewFeature\\UsingTimeTest\\UsingTimeTest.csproj",
+        "packagesPath": "C:\\Users\\mtayel\\.nuget\\packages\\",
+        "outputPath": "D:\\CodeMaz\\Dev.to\\DotNet8NewFeatures\\DotNet8NewFeature\\UsingTimeTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mtayel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\CodeMaz\\Dev.to\\DotNet8NewFeatures\\DotNet8NewFeature\\NewTimeFeature\\NewTimeFeature.csproj": {
+                "projectPath": "D:\\CodeMaz\\Dev.to\\DotNet8NewFeatures\\DotNet8NewFeature\\NewTimeFeature\\NewTimeFeature.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.9.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.8.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

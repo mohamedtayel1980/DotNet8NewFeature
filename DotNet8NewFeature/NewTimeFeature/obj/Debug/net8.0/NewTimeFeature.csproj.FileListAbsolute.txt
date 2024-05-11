@@ -1,0 +1,15 @@
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewTimeFeature\bin\Debug\net8.0\NewTimeFeature.exe
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewTimeFeature\bin\Debug\net8.0\NewTimeFeature.deps.json
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewTimeFeature\bin\Debug\net8.0\NewTimeFeature.runtimeconfig.json
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewTimeFeature\bin\Debug\net8.0\NewTimeFeature.dll
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewTimeFeature\bin\Debug\net8.0\NewTimeFeature.pdb
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewTimeFeature\obj\Debug\net8.0\NewTimeFeature.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewTimeFeature\obj\Debug\net8.0\NewTimeFeature.AssemblyInfoInputs.cache
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewTimeFeature\obj\Debug\net8.0\NewTimeFeature.AssemblyInfo.cs
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewTimeFeature\obj\Debug\net8.0\NewTimeFeature.csproj.CoreCompileInputs.cache
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewTimeFeature\obj\Debug\net8.0\NewTimeFeature.sourcelink.json
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewTimeFeature\obj\Debug\net8.0\NewTimeFeature.dll
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewTimeFeature\obj\Debug\net8.0\refint\NewTimeFeature.dll
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewTimeFeature\obj\Debug\net8.0\NewTimeFeature.pdb
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewTimeFeature\obj\Debug\net8.0\NewTimeFeature.genruntimeconfig.cache
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewTimeFeature\obj\Debug\net8.0\ref\NewTimeFeature.dll
