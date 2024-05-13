@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySample", "ArraySample\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewTimeFeature", "NewTimeFeature\NewTimeFeature.csproj", "{25EA0D35-AC4E-4B6E-9AC5-CE8C63393F3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingTimeTest", "UsingTimeTest\UsingTimeTest.csproj", "{BF318662-7987-4321-8759-DAC42ACB1C50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingTimeTest", "UsingTimeTest\UsingTimeTest.csproj", "{BF318662-7987-4321-8759-DAC42ACB1C50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewRandomneSample", "NewRandomneSample\NewRandomneSample.csproj", "{D4201266-1B4E-4C66-8FC4-3B6060CD03D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{BF318662-7987-4321-8759-DAC42ACB1C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF318662-7987-4321-8759-DAC42ACB1C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF318662-7987-4321-8759-DAC42ACB1C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4201266-1B4E-4C66-8FC4-3B6060CD03D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4201266-1B4E-4C66-8FC4-3B6060CD03D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4201266-1B4E-4C66-8FC4-3B6060CD03D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4201266-1B4E-4C66-8FC4-3B6060CD03D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

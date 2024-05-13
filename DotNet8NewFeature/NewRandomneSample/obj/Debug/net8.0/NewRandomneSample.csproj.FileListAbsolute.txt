@@ -1,0 +1,15 @@
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewRandomneSample\bin\Debug\net8.0\NewRandomneSample.exe
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewRandomneSample\bin\Debug\net8.0\NewRandomneSample.deps.json
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewRandomneSample\bin\Debug\net8.0\NewRandomneSample.runtimeconfig.json
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewRandomneSample\bin\Debug\net8.0\NewRandomneSample.dll
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewRandomneSample\bin\Debug\net8.0\NewRandomneSample.pdb
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewRandomneSample\obj\Debug\net8.0\NewRandomneSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewRandomneSample\obj\Debug\net8.0\NewRandomneSample.AssemblyInfoInputs.cache
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewRandomneSample\obj\Debug\net8.0\NewRandomneSample.AssemblyInfo.cs
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewRandomneSample\obj\Debug\net8.0\NewRandomneSample.csproj.CoreCompileInputs.cache
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewRandomneSample\obj\Debug\net8.0\NewRandomneSample.sourcelink.json
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewRandomneSample\obj\Debug\net8.0\NewRandomneSample.dll
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewRandomneSample\obj\Debug\net8.0\refint\NewRandomneSample.dll
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewRandomneSample\obj\Debug\net8.0\NewRandomneSample.pdb
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewRandomneSample\obj\Debug\net8.0\NewRandomneSample.genruntimeconfig.cache
+D:\CodeMaz\Dev.to\DotNet8NewFeatures\DotNet8NewFeature\NewRandomneSample\obj\Debug\net8.0\ref\NewRandomneSample.dll
