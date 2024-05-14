@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>LookupBenchmark-20240514-141521</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet v0.13.9+228a464e8be6c580ad9408e98f18813f6407fb5a, Windows 10 (10.0.19045.4355/22H2/2022Update)
+Intel Core i7-10750H CPU 2.60GHz, 1 CPU, 12 logical and 6 physical cores
+.NET SDK 8.0.204
+  [Host]     : .NET 8.0.4 (8.0.424.16909), X64 RyuJIT AVX2
+  DefaultJob : .NET 8.0.4 (8.0.424.16909), X64 RyuJIT AVX2
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>Method             </th><th>Mean</th><th>Error</th><th>StdDev</th><th>Median</th><th>Ratio</th><th>RatioSD</th>
+</tr>
+</thead><tbody><tr><td>LookupList</td><td>50.080 &mu;s</td><td>0.8246 &mu;s</td><td>1.1008 &mu;s</td><td>49.592 &mu;s</td><td>1.00</td><td>0.00</td>
+</tr><tr><td>LookupDictionary</td><td>4.094 &mu;s</td><td>0.0622 &mu;s</td><td>0.0551 &mu;s</td><td>4.077 &mu;s</td><td>0.08</td><td>0.00</td>
+</tr><tr><td>LookupImmutableDictionary</td><td>46.478 &mu;s</td><td>0.9173 &mu;s</td><td>2.1801 &mu;s</td><td>45.361 &mu;s</td><td>0.94</td><td>0.04</td>
+</tr><tr><td>LookupFrozenSet</td><td>1.958 &mu;s</td><td>0.0376 &mu;s</td><td>0.0402 &mu;s</td><td>1.947 &mu;s</td><td>0.04</td><td>0.00</td>
+</tr><tr><td>LookupFrozenDictionary</td><td>2.739 &mu;s</td><td>0.0407 &mu;s</td><td>0.0318 &mu;s</td><td>2.741 &mu;s</td><td>0.05</td><td>0.00</td>
+</tr></tbody></table>
+</body>
+</html>

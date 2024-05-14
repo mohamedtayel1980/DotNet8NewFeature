@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewTimeFeature", "NewTimeFe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingTimeTest", "UsingTimeTest\UsingTimeTest.csproj", "{BF318662-7987-4321-8759-DAC42ACB1C50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewRandomneSample", "NewRandomneSample\NewRandomneSample.csproj", "{D4201266-1B4E-4C66-8FC4-3B6060CD03D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewRandomneSample", "NewRandomneSample\NewRandomneSample.csproj", "{D4201266-1B4E-4C66-8FC4-3B6060CD03D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionariesNewFeatures", "DictionariesNewFeatures\DictionariesNewFeatures.csproj", "{7DDD0D32-FCD1-4F2E-8C06-6F01C7588F07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{D4201266-1B4E-4C66-8FC4-3B6060CD03D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4201266-1B4E-4C66-8FC4-3B6060CD03D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4201266-1B4E-4C66-8FC4-3B6060CD03D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DDD0D32-FCD1-4F2E-8C06-6F01C7588F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DDD0D32-FCD1-4F2E-8C06-6F01C7588F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DDD0D32-FCD1-4F2E-8C06-6F01C7588F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DDD0D32-FCD1-4F2E-8C06-6F01C7588F07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
