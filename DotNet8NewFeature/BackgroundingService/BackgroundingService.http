@@ -1,0 +1,6 @@
+@BackgroundingService_HostAddress = http://localhost:5076
+
+GET {{BackgroundingService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

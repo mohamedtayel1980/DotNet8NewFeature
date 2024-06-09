@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ohqrmG/5zIQbXJfxCbK2PHaMY3Q2YyxamemeXdlVWPE=",
+  "Source": "BackgroundingService",
+  "BasePath": "_content/BackgroundingService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
